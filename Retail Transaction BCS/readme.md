@@ -64,7 +64,8 @@ Users can filter reports by:
 
 Replace the placeholder below with your actual dashboard screenshot.
 
-![Dashboard](Images/dashboard_home.png)
+![Dashboard](<img width="1371" height="775" alt="Dashboard" src="https://github.com/user-attachments/assets/34f589e8-85b3-4392-8193-5d645335e590" />
+)
 
 ---
 
@@ -76,7 +77,8 @@ The dashboard includes the following interactive visuals:
 
 Shows monthly revenue growth and identifies seasonal sales patterns.
 
-![Monthly Sales Trend](Images/charts.png)
+![Monthly Sales Trend](<img width="1338" height="342" alt="Monthly Sales Trend" src="https://github.com/user-attachments/assets/99bc00ee-012e-4c51-89ce-bf7fe1aad975" />
+)
 
 ---
 
@@ -102,7 +104,8 @@ Compares Online and Offline sales performance.
 
 Provides a quick business summary using interactive KPI cards.
 
-![KPI Cards](Images/kpi_cards.png)
+![KPI Cards](<img width="1155" height="150" alt="KPIs" src="https://github.com/user-attachments/assets/c623ed8c-7cb3-46cd-aca5-93540299685f" />
+)
 
 ---
 
@@ -208,19 +211,22 @@ Average Order Value (AOV) indicates healthy customer spending per transaction.
 
 ## Dashboard
 
-![Dashboard](Images/dashboard_home.png)
+![Dashboard](<img width="1371" height="775" alt="Dashboard" src="https://github.com/user-attachments/assets/a892bd72-47a2-40ae-a44f-f8f975b2e2cc" />
+)
 
 ---
 
 ## KPI Cards
 
-![KPIs](Images/kpi_cards.png)
+![KPIs](<img width="1155" height="150" alt="KPIs" src="https://github.com/user-attachments/assets/417389e8-a50e-4172-8713-e6e7d5d1aedf" />
+)
 
 ---
 
 ## Charts
 
-![Charts](Images/charts.png)
+![Charts](<img width="1110" height="561" alt="Charts" src="https://github.com/user-attachments/assets/affa40c6-7ce0-4f60-9b36-2cef82a6e3ee" />
+)
 
 ---
 
