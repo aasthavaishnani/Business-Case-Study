@@ -64,8 +64,7 @@ Users can filter reports by:
 
 Replace the placeholder below with your actual dashboard screenshot.
 
-![Dashboard](<img width="1371" height="775" alt="Dashboard" src="https://github.com/user-attachments/assets/34f589e8-85b3-4392-8193-5d645335e590" />
-)
+<img width="1371" height="775" alt="Dashboard" src="https://github.com/user-attachments/assets/701e070a-0fef-4048-bf86-46a3b4256b29" />
 
 ---
 
@@ -77,8 +76,7 @@ The dashboard includes the following interactive visuals:
 
 Shows monthly revenue growth and identifies seasonal sales patterns.
 
-![Monthly Sales Trend](<img width="1338" height="342" alt="Monthly Sales Trend" src="https://github.com/user-attachments/assets/99bc00ee-012e-4c51-89ce-bf7fe1aad975" />
-)
+<img width="1338" height="342" alt="Monthly Sales Trend" src="https://github.com/user-attachments/assets/78acd722-d16f-4825-9b5b-788936a7df8c" />
 
 ---
 
@@ -104,8 +102,7 @@ Compares Online and Offline sales performance.
 
 Provides a quick business summary using interactive KPI cards.
 
-![KPI Cards](<img width="1155" height="150" alt="KPIs" src="https://github.com/user-attachments/assets/c623ed8c-7cb3-46cd-aca5-93540299685f" />
-)
+<img width="1155" height="150" alt="KPIs" src="https://github.com/user-attachments/assets/ff052005-aa6f-4ee9-91a8-05a422515106" />
 
 ---
 
