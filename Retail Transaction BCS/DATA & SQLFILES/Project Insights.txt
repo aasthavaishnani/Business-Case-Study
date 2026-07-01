@@ -1,0 +1,33 @@
+====================================================================
+PROJECT REPORT: RETAIL SALES PERFORMANCE & STRATEGY INSIGHTS
+====================================================================
+
+1. PROJECT OVERVIEW
+------------------
+This academic project analyzes retail transaction data to discover 
+key sales trends, regional performance, and top product categories 
+for Q3 business strategy.
+
+2. KEY PERFORMANCE INDICATORS (KPIs)
+----------------------------------
+* Total Sales: 583K
+* Total Transactions: 200
+* Unique Customers: 200
+* Average Order Value: 2.92K
+
+3. BUSINESS INSIGHTS & ACTION PLAN
+----------------------------------
+* Online Growth: Online sales are much higher than offline channels. 
+  We should focus more on digital marketing to boost revenue.
+
+* Top Regions: A few regions are driving most of our sales. 
+  We need to focus on low-performing areas with special discounts.
+
+* Best Products: Our top 5 products bring in the maximum revenue. 
+  We must always keep these items in stock to avoid missing sales.
+
+4. TECH STACK USED
+------------------
+* Database Management: MySQL (Structured Queries & Aggregations)
+* Business Intelligence: Power BI (Interactive Dashboard & Data Modeling)
+====================================================================
