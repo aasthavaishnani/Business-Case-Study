@@ -204,28 +204,6 @@ Average Order Value (AOV) indicates healthy customer spending per transaction.
 
 ---
 
-# 📸 Screenshots
-
-## Dashboard
-
-<img width="1371" height="775" alt="Dashboard" src="https://github.com/user-attachments/assets/a892bd72-47a2-40ae-a44f-f8f975b2e2cc" />
-
----
-
-## KPI Cards
-
-<img width="1155" height="150" alt="KPIs" src="https://github.com/user-attachments/assets/417389e8-a50e-4172-8713-e6e7d5d1aedf" />
-
-
----
-
-## Charts
-
-<img width="1110" height="561" alt="Charts" src="https://github.com/user-attachments/assets/affa40c6-7ce0-4f60-9b36-2cef82a6e3ee" />
-
-
----
-
 # 📚 Learning Outcomes
 
 - SQL Query Optimization
